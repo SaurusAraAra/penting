@@ -22,17 +22,5 @@
       "limitIdCh": 1
     }
   },
-  "accounts": [
-    {
-      "key": "vanix",
-      "role": "member",
-      "roleLabel": "Member",
-      "limit": 1,
-      "used": 0,
-      "sisa": 1,
-      "ids": [],
-      "createdBy": "owner",
-      "createdAt": null
-    }
-  ]
+  "accounts": []
 }
