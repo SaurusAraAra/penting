@@ -33,6 +33,17 @@
       "ids": [],
       "createdBy": "2772727",
       "createdAt": "2026-07-26T17:45:30.679Z"
+    },
+    {
+      "key": "vanix",
+      "role": "ceo",
+      "roleLabel": "CEO",
+      "limit": "unlimited",
+      "used": 0,
+      "sisa": "unlimited",
+      "ids": [],
+      "createdBy": "2772727",
+      "createdAt": "2026-07-26T17:45:38.279Z"
     }
   ]
 }
