@@ -1,4 +1,38 @@
-[
-  "amanex",
-  "vanix"
-]
+{
+  "_info": "MARGA PUSH CH LUOXY - daftar key. limit/used/sisa & ids dihitung otomatis oleh sistem, jangan diedit manual.",
+  "roles": {
+    "ceo": {
+      "harga": "50K",
+      "limitIdCh": "unlimited"
+    },
+    "manager": {
+      "harga": "35K",
+      "limitIdCh": 4
+    },
+    "admin": {
+      "harga": "20K",
+      "limitIdCh": 3
+    },
+    "reseller": {
+      "harga": "15K",
+      "limitIdCh": 2
+    },
+    "member": {
+      "harga": "10K",
+      "limitIdCh": 1
+    }
+  },
+  "accounts": [
+    {
+      "key": "vanix",
+      "role": "member",
+      "roleLabel": "Member",
+      "limit": 1,
+      "used": 0,
+      "sisa": 1,
+      "ids": [],
+      "createdBy": "owner",
+      "createdAt": null
+    }
+  ]
+}
