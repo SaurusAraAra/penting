@@ -55,6 +55,17 @@
       "ids": [],
       "createdBy": "amanex",
       "createdAt": "2026-07-26T22:29:54.903Z"
+    },
+    {
+      "key": "LUOXY-RES-44ABBE",
+      "role": "reseller",
+      "roleLabel": "Reseller",
+      "limit": 2,
+      "used": 0,
+      "sisa": 2,
+      "ids": [],
+      "createdBy": "amanex",
+      "createdAt": "2026-07-26T22:33:04.771Z"
     }
   ]
 }
