@@ -28,11 +28,12 @@
       "role": "ceo",
       "roleLabel": "CEO",
       "limit": "unlimited",
-      "used": 2,
+      "used": 3,
       "sisa": "unlimited",
       "ids": [
         "120363420766277136@newsletter",
-        "120363404933876936@newsletter"
+        "120363404933876936@newsletter",
+        "120363410316899314@newsletter"
       ],
       "createdBy": "2772727",
       "createdAt": "2026-07-26T17:45:30.679Z"
